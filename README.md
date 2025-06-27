@@ -1,2 +1,2 @@
-# requirements.txt
-The requirements.txt file specifies essential Python libraries required for this project, ensuring consistent and reproducible environment setup.
+requests>=2.28.0
+numpy>=1.24.0
